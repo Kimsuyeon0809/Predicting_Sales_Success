@@ -1,5 +1,5 @@
 # Predicting_Sales_Success
-MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발
+[LG Aimers] MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발
 
 [24/02/06] </br>
 1차 제출 : baseline code 그대로 DecisionTreeClassifier()모델 사용 </br>
